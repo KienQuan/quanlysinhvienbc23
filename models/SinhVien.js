@@ -8,4 +8,7 @@ function SinhVien() {
     this.diemToan = '';
     this.diemLy = '';
     this.diemHoa = '';
+    this.tinhDiemTrungBinh = function(){
+        console.log('Tinh Diem Trung Binh!');
+    }
 }
